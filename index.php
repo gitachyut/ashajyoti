@@ -160,9 +160,9 @@
 					<div class="clear"></div>
 					<div class="grid_3">
 						<div class="block2 maxheight">
-							<div class="title">our Mission</div>
+							<div class="title">Our Mission</div>
 							<div class="pad">
-								All Children with Disabilities in Darrang district gain equal opportunity and live up to their full potential..<div class="alright"><a href="#" class="btn">Read More</a></div>
+								All Children with Disabilities in Darrang district gain equal opportunity and live up to their full potential..<div class="alright"><a href="our-mission.php" class="btn">Read More</a></div>
 							</div>
 						</div>
 					</div>
@@ -170,7 +170,7 @@
 						<div class="block2 maxheight">
 							<div class="title">Our Vision</div>
 							<div class="pad">
-								To build a society in which every child and persons with disability enjoyed the right to survive, protection and development..<div class="alright"><a href="#" class="btn">Read More</a></div>
+								To build a society in which every child and persons with disability enjoyed the right to survive, protection and development..<div class="alright"><a href="our-mission.php" class="btn">Read More</a></div>
 							</div>
 						</div>
 					</div>
@@ -178,7 +178,7 @@
 						<div class="block2 maxheight">
 							<div class="title">Our Objectives</div>
 							<div class="pad">
-								We stand with the children and persons with disabilities and ensure equal opportunities for their active participation in the society..<div class="alright"><a href="#" class="btn">Read More</a></div>
+								We stand with the children and persons with disabilities and ensure equal opportunities for their active participation in the society..<div class="alright"><a href="our-mission.php" class="btn">Read More</a></div>
 							</div>
 						</div>
 					</div>
@@ -195,42 +195,42 @@
 					<div class="grid_4 events">
 						<time class="st1">World Mental Health Day</time>
 						On 10th Oct. 2019 on the auspices of World Mental Health Day Ashajyoti celebrated by organizing an awareness meeting at..
-						<div class="alright alt"><a href="#" class="btn">Read More</a></div>
+						<div class="alright alt"><a href="awareness-programmes.php" class="btn">Read More</a></div>
 					</div>
 					<div class="grid_4 events">
 						<time class="st1">World environment day</time>
 						The World Environment Day is observed on 5th June 21. On this occasion Ashajyoti organized one plantation programme at..
-						<div class="alright alt"><a href="#" class="btn">Read More</a></div>
+						<div class="alright alt"><a href="awareness-programmes.php" class="btn">Read More</a></div>
 					</div>
 					<div class="grid_4 events">
 						<time class="st1">International youth Day</time>
 						ASHAJYOTI observed the International Youth Day on 12th Aug.’21. The meeting was held at the auditorium of Diamond club..
-						<div class="alright alt"><a href="#" class="btn">Read More</a></div>
+						<div class="alright alt"><a href="awareness-programmes.php" class="btn">Read More</a></div>
 					</div>
 					<div class="grid_4 events">
 						<time class="st1">Awareness Programme on Covid-19</time>
 						Ashajyoti organized three awareness meetings on Covid-19 at different locations. This programme was held at..
-						<div class="alright alt"><a href="#" class="btn">Read More</a></div>
+						<div class="alright alt"><a href="awareness-programmes.php" class="btn">Read More</a></div>
 					</div>
 					<div class="grid_4 events">
 						<time class="st1">Health Programme</time>
 						As part of health programme Ashajyoti organized an awareness meeting on 20thFebruary/21.The A meeting was..
-						<div class="alright alt"><a href="#" class="btn">Read More</a></div>
+						<div class="alright alt"><a href="awareness-programmes.php" class="btn">Read More</a></div>
 					</div>
 					<div class="grid_4 events">
 						<time class="st1"> Early Marriage</time>
 						It is one of the most unfortunate actions that prevails in our society. Basically it happened in those societies where..
-						<div class="alright alt"><a href="#" class="btn">Read More</a></div>
+						<div class="alright alt"><a href="awareness-programmes.php" class="btn">Read More</a></div>
 					</div>
 					<div class="grid_4 events">
 						<time class="st1">Sexual abuse</time>
 						Sexual abuse is one of the most heinous forbidden word in our society. Because the man who is involved in this act is really.. 
-						<div class="alright alt"><a href="#" class="btn">Read More</a></div>
+						<div class="alright alt"><a href="awareness-programmes.php" class="btn">Read More</a></div>
 					</div>
 					<div class="grid_4 events">
 						<time class="st1">Drug Addiction</time>
 						Regarding the drug addiction we have taken a special measure i.e the children who are coming for therapy to our unit we provide..
-						<div class="alright alt"><a href="#" class="btn">Read More</a></div>
+						<div class="alright alt"><a href="awareness-programmes.php" class="btn">Read More</a></div>
 					</div>
 
 					<div class="clear"></div>
@@ -240,12 +240,12 @@
 					<div class="grid_4 events">
 						<time class="st1">Skill Training Programme</time>
 						Ashajyoti organized a series of Training programmes in 2019-2020..
-						<div class="alright"><a href="#" class="btn">Read More</a></div>
+						<div class="alright"><a href="skill-development.php" class="btn">Read More</a></div>
 					</div>
 					<div class="grid_4 events">
 						<time class="st1">Personality Dev. And Skill Dev</time>
 						We provided the training program to the PWD student to uplift the personalities..
-						<div class="alright"><a href="#" class="btn">Read More</a></div>
+						<div class="alright"><a href="skill-development.php" class="btn">Read More</a></div>
 					</div>
 					<div class="grid_12">
 						<h2>Legal issues</h2>
