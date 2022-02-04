@@ -153,6 +153,16 @@
                             The training was provided by the resource person Mr. Imran Hussain Asstt. Professor, College of Science &Technology, Jorhat.
                         </p>
 					</div>
+
+					<div class="grid_12">
+						<h2>Legal issues</h2>
+						<br>
+						<h5>Awareness Programme on legal issues</h5>
+						<br>
+						<p>On 20th Oct. 2019 a awareness meeting was held on Legal Service to Mentally ill and Mentally disable person (NALSA) sponsored by Dist. Legal Service Authority, Darrang. The programme was held at Niz-Dahi Hari Mandir Campus. Ms. Deepsikha Sarma, senior Advocate, Mangaldai Bar Association attended as Resource person.</p>
+						<p>On 30th September an awareness meeting was held on MABLISING (Ganahatya) sponsored by Dist. Legal Service Authority, Darrang. The programme was held at Debananda Gaon Panchayat Community hall. Mr. Basanta Saikia, senior Advocate Mangaldai Bar Association attended as Resource person. </p>
+						<p>On 2nd February/2020 an awareness meeting was held on “Pranam Act, 2017”, “Eradication of Poverty” and “Clean India” at Gyan Dipti Club, Dahi Nagaon.  The programme was sponsored by Nehru Yuva Kendra, Darrang.</p>
+					</div>
 				</div>
 			</div>
 <!--==============================footer=================================-->
