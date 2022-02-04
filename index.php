@@ -119,11 +119,10 @@
 						<span id="responsiveFlag"></span>
 					</div>
 					<div class="grid_4">
-						<!-- <a href="#" class="donate">Donate</a> -->
-						<div class="text1 title">An NGO for the development of the persons with disability.</div>
+						<a href="donate-us.php" class="donate">Donate</a>
+						<div class="text1 title">Ashajyoti is an NGO for the development of the persons with disability.</div>
 						<p>We stand with the children and persons with disabilities and ensure equal opportunities for their active participation in the society. </p>
 						<p>We provide therapy and special education to the children with disabilities especially from poor economic background to perform their day to day activities.</p>
-						<p>We provide skill oriented training to the youths and women</p>
 						<p>We help access rights and entitlements from the government available for the CwDs, PwDs, women, and children. </p>
 					</div>
 					<div class="grid_12">
