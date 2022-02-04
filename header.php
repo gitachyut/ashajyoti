@@ -18,7 +18,7 @@
                 <li><a href="about-us.php">About Us </a></li>
                 <li><a href="our-mission.php">Our Mission</a></li>
                 <li><a href="gallery.php">Gallery</a></li>
-                <li><a href="contact-us.php">Contacts</a></li>
+                <li><a href="contact-us.php">Contact Us</a></li>
             </ul>
         </nav>
         <div class="clear"></div>
