@@ -10,8 +10,6 @@
 		<link rel="stylesheet" href="css/slider.css">
 		<link rel="stylesheet" href="css/style.css">
 
-
-
 		<script src="js/jquery.js"></script>
 		<script src="js/jquery-migrate-1.1.1.js"></script>
 		<script src="js/script.js"></script>
@@ -23,7 +21,6 @@
 		<script src="js/owl.carousel.js"></script>
 		<script src="js/jquery.flexslider-min.js"></script>
 		<script src="js/kwiks.js"></script>
-
 
 		<script>
 			$(document).ready(function(){
@@ -75,6 +72,7 @@
 					}
 				this.init();
 			}
+
 		</script>
 		<!--[if lt IE 8]>
 		<div style=' clear: both; text-align:center; position: relative;'>
@@ -92,6 +90,7 @@
 <!--==============================header=================================-->
 		<header>
 			<div class="clear"></div>
+
 			<div class="container_12">
 				<div class="grid_12 nav_menu">
 					<div class="logo">
