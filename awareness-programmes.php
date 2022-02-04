@@ -156,7 +156,7 @@
 					<div class="clear"></div>
 
                     <div class="grid_12">
-                        <b>Early Marriage:</b>
+                        <b>Child protection:</b>
                         <p>It is one of the most unfortunate actions that prevails in our society. Basically it happened in those societies where the light of education is quite negligible and where girl children were nothing but the burden. So the guardians tried to avoid the burden by giving marriage to their child before maturity. Our organization provides awareness camps in various places in the sipajhar block area to abolish the bad practice from  the society by giving proper knowledge through awareness camps. In this society people thought that Girl children were nothing but a burden. We are now happy that our awareness camps help the interior villagers and char areas to stop the early marriage in their society.</p>
                     </div>
 					<div class="clear"></div>
