@@ -246,6 +246,70 @@
 						We provided the training program to the PWD student to uplift the personalities..
 						<div class="alright"><a href="skill-development.php" class="btn">Read More</a></div>
 					</div>
+
+					<div class="grid_12">
+						<h2>Executive Committee</h2>
+						<br>
+                            <table>
+                                <tr>
+                                    <th>Sl No.</th>
+                                    <th>Name in full</th>
+                                    <th>Designation</th>
+                                    <th>Sex</th>
+                                    <th>Experience</th>
+                                </tr>
+                                <tr>
+                                    <td>1</td>
+                                    <td>Jogendra Bania</td>
+                                    <td>Chairman</td>
+                                    <td>Male</td>
+                                    <td>40 years in social development sector</td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>Bhupen Kumar Nath</td>
+                                    <td>Vice Chairman</td>
+                                    <td>Male</td>
+                                    <td>30 years experience in cluster dev. , group formation and team management</td>
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>Jiaur Rahman</td>
+                                    <td>Executive Director</td>
+                                    <td>Male</td>
+                                    <td>10 years experience in training is community mobilization</td>
+                                </tr>
+                                <tr>
+                                    <td>4</td>
+                                    <td>Baikuntha Chetia</td>
+                                    <td>Member</td>
+                                    <td>Male</td>
+                                    <td>35 years experience in govt. job</td>
+                                </tr>
+                                <tr>
+                                    <td>5</td>
+                                    <td>Gita Rani Sarma</td>
+                                    <td>Member</td>
+                                    <td>Female</td>
+                                    <td>5 years experience in imparting training on yogason</td>
+                                </tr>
+                                <tr>
+                                    <td>6</td>
+                                    <td>Elima Jahan</td>
+                                    <td>Member</td>
+                                    <td>Female</td>
+                                    <td>5 years experience in health sector in the govt. dept.</td>
+                                </tr>
+                                <tr>
+                                    <td>7</td>
+                                    <td>Mausumi Sarma</td>
+                                    <td>Member</td>
+                                    <td>Female</td>
+                                    <td>10 years experience in community mobilization and group formation</td>
+                                </tr>
+                            </table>
+					</div>
+
 					<div class="grid_12">
 						<h2>Legal issues</h2>
 						<br>
@@ -255,7 +319,6 @@
 						<p>On 30th September an awareness meeting was held on MABLISING (Ganahatya) sponsored by Dist. Legal Service Authority, Darrang. The programme was held at Debananda Gaon Panchayat Community hall. Mr. Basanta Saikia, senior Advocate Mangaldai Bar Association attended as Resource person. </p>
 						<p>On 2nd February/2020 an awareness meeting was held on “Pranam Act, 2017”, “Eradication of Poverty” and “Clean India” at Gyan Dipti Club, Dahi Nagaon.  The programme was sponsored by Nehru Yuva Kendra, Darrang.</p>
 					</div>
-
 				</div>
 			</div>
 <!--==============================footer=================================-->

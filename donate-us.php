@@ -130,7 +130,7 @@
                                     <b>MICR Code. 784024506</b><br>
                                     <b>Punjab National Bank</b><br>
                                     <b>Sipajhar Branch</b><br>
-                                    <b>Darrang, Assam/b><br>
+                                    <b>Darrang, Assam<br>
                                     <b>India 784145</b><br>
 									<dd><span>Telephone:</span>+91-9864422957</dd>
 									<dd><span>Telephone:</span>+91-7576010957</dd>

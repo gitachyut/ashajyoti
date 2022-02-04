@@ -179,6 +179,102 @@
 					</div>
                     <div class="clear"></div>
                     <div class="grid_12">
+						<h2>Financial Statement</h2>
+						<br>
+                            <table>
+                                <tr>
+                                    <th>Year</th>
+                                    <th>Income</th>
+                                    <th>Expenditure</th>
+                                    <th>Receipt</th>
+                                    <th>Payment</th>
+                                </tr>
+                                <tr>
+                                    <td>2018-19</td>
+                                    <td>2006500.00</td>
+                                    <td>2006500.00</td>
+                                    <td>2010394.75</td>
+                                    <td>2010394.75</td>
+                                </tr>
+                                <tr>
+                                    <td>2019-20</td>
+                                    <td>1523995.00</td>
+                                    <td>1523995.00</td>
+                                    <td>1532987.75</td>
+                                    <td>1532987.75</td>
+                                </tr>
+                                <tr>
+                                    <td>2020-21</td>
+                                    <td>1197527.60</td>
+                                    <td>1197527.60</td>
+                                    <td>1178786.75</td>
+                                    <td>1178786.75</td>
+                                </tr>
+                            </table>
+					</div>
+                    <div class="grid_12">
+						<h2>Executive Committee</h2>
+						<br>
+                            <table>
+                                <tr>
+                                    <th>Sl No.</th>
+                                    <th>Name in full</th>
+                                    <th>Designation</th>
+                                    <th>Sex</th>
+                                    <th>Experience</th>
+                                </tr>
+                                <tr>
+                                    <td>1</td>
+                                    <td>Jogendra Bania</td>
+                                    <td>Chairman</td>
+                                    <td>Male</td>
+                                    <td>40 years in social development sector</td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>Bhupen Kumar Nath</td>
+                                    <td>Vice Chairman</td>
+                                    <td>Male</td>
+                                    <td>30 years experience in cluster dev. , group formation and team management</td>
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>Jiaur Rahman</td>
+                                    <td>Executive Director</td>
+                                    <td>Male</td>
+                                    <td>10 years experience in training is community mobilization</td>
+                                </tr>
+                                <tr>
+                                    <td>4</td>
+                                    <td>Baikuntha Chetia</td>
+                                    <td>Member</td>
+                                    <td>Male</td>
+                                    <td>35 years experience in govt. job</td>
+                                </tr>
+                                <tr>
+                                    <td>5</td>
+                                    <td>Gita Rani Sarma</td>
+                                    <td>Member</td>
+                                    <td>Female</td>
+                                    <td>5 years experience in imparting training on yogason</td>
+                                </tr>
+                                <tr>
+                                    <td>6</td>
+                                    <td>Elima Jahan</td>
+                                    <td>Member</td>
+                                    <td>Female</td>
+                                    <td>5 years experience in health sector in the govt. dept.</td>
+                                </tr>
+                                <tr>
+                                    <td>7</td>
+                                    <td>Mausumi Sarma</td>
+                                    <td>Member</td>
+                                    <td>Female</td>
+                                    <td>10 years experience in community mobilization and group formation</td>
+                                </tr>
+                            </table>
+					</div>
+                    <div class="grid_12">
 						<h2>Registration Details</h2>
 						<br>
                         <p>
