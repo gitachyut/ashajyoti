@@ -1,0 +1,3 @@
+ErrorDocument 401 https://ashajyoti.org.in/404.php
+ErrorDocument 404 https://ashajyoti.org.in/404.php
+ErrorDocument 500 https://ashajyoti.org.in/404.php

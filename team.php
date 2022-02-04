@@ -34,44 +34,7 @@
 	</head>
 	<body class="" id="top">
 <!--==============================header=================================-->
-		<header>
-			<div class="clear"></div>
-			<div class="container_12">
-				<div class="grid_12">
-					<h1>
-						<a href="index.html">
-							<img src="images/logo.png" alt="Your Happy Family">
-						</a>
-					</h1>
-					<div class="menu_block">
-						<nav class="horizontal-nav full-width horizontalNav-notprocessed">
-							<ul class="sf-menu">
-								<li>
-									<a href="index.html">Home</a>
-									<ul>
-										<li><a href="#">history</a></li>
-										<li><a href="#">offers</a></li>
-										<li>
-											<a href="#">news</a>
-											<ul>
-												<li><a href="#">fresh </a></li>
-												<li><a href="#">archive</a></li>
-											</ul>
-										</li> 
-									</ul>
-								</li>
-								<li><a href="index-1.html">Videos </a></li>
-								<li class="current"><a href="index-2.html">Campaigns</a></li>
-								<li><a href="index-3.html">Volunteer </a></li>
-								<li><a href="index-4.html">Contacts</a></li>
-							</ul>
-						</nav>
-						<div class="clear"></div>
-					</div>
-					<div class="clear"></div>
-				</div>
-			</div>
-		</header>
+		<?php include 'header.php';?>
 		<div class="main">
 <!--==============================Content=================================-->
 			<div class="content"><div class="ic">More Website Templates @ TemplateMonster.com - December 16, 2013!</div>
@@ -167,23 +130,7 @@
 				</div>
 			</div>
 <!--==============================footer=================================-->
-			<footer>	
-				<div class="hor bg3"></div>
-				<div class="container_12">
-					<div class="grid_12 ">  
-						<div class="socials">
-							<a href="#"></a>
-							<a href="#"></a>
-							<a href="#"></a>
-							<div class="clear"></div>
-						</div>
-						<div class="copy">
-							<strong>Life in Color</strong>   &copy; <span id="copyright-year"></span> | <a href="#">Privacy Policy</a> <br>
-							Website designed by <a href="http://www.templatemonster.com/" rel="nofollow">TemplateMonster.com</a>
-						</div>  
-					</div>
-				</div>  
-			</footer>
+			<?php include 'footer.php';?>
 		</div>
 	</body>
 </html>

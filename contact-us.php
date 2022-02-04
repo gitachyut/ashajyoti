@@ -36,52 +36,15 @@
 	</head>
 	<body class="" id="top">
 <!--==============================header=================================-->
-		<header>
-			<div class="clear"></div>
-			<div class="container_12">
-				<div class="grid_12">
-					<h1>
-						<a href="index.html">
-							<img src="images/logo.png" alt="Your Happy Family">
-						</a>
-					</h1>
-					<div class="menu_block">
-						<nav class="horizontal-nav full-width horizontalNav-notprocessed">
-							<ul class="sf-menu">
-								<li>
-									<a href="index.html">Home</a>
-									<ul>
-										<li><a href="#">history</a></li>
-										<li><a href="#">offers</a></li>
-										<li>
-											<a href="#">news</a>
-											<ul>
-												<li><a href="#">fresh </a></li>
-												<li><a href="#">archive</a></li>
-											</ul>
-										</li>
-									</ul> 
-								</li>
-								<li><a href="index-1.html">Videos </a></li>
-								<li><a href="index-2.html">Campaigns</a></li>
-								<li><a href="index-3.html">Volunteer </a></li>
-								<li class="current"><a href="index-4.html">Contacts</a></li>
-							</ul>
-						</nav>
-						<div class="clear"></div>
-					</div>
-					<div class="clear"></div>
-				</div>
-			</div>
-		</header>
+		<?php include 'header.php';?>
 		<div class="main">
 <!--==============================Content=================================-->
-			<div class="content"><div class="ic">More Website Templates @ TemplateMonster.com - December 16, 2013!</div>
+			<div class="content">
 				<div class="container_12">
 					<div class="grid_12">
 						<div class="map">
 							<figure class=" ">
-								<iframe src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Brooklyn,+New+York,+NY,+United+States&amp;aq=0&amp;sll=37.0625,-95.677068&amp;sspn=61.282355,146.513672&amp;ie=UTF8&amp;hq=&amp;hnear=Brooklyn,+Kings,+New+York&amp;ll=40.649974,-73.950005&amp;spn=0.01628,0.025663&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3573.6542159586375!2d91.9028407150106!3d26.402356788229657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375afe03df4c7cdd%3A0x34399c9fb48afd97!2sGhorabandha%2C%20Sipajhar%2C%20Assam%20784145!5e0!3m2!1sen!2sin!4v1643940135196!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 							</figure>
 						</div>
 					</div>
@@ -90,19 +53,18 @@
 						<div class="map">
 							<address>
 								<dl>
-									<dt>The Company Name Inc. <br>
-										8901 Marmora Road,<br>
-										Glasgow, D04 89GR.
+									<b>Jiaur Rahman</b><br>
+									<b>Executive Director</b><br>
+									<dt>
+										ASHAJYOTI. Sipajhar,<br>
+										Darrang, Assam, <br>
+										India 784145 <br>
 									</dt>
-									<dd><span>Freephone:</span>+1 800 559 6580</dd>
-									<dd><span>Telephone:</span>+1 800 603 6035</dd>
-									<dd><span>FAX:</span>+1 800 889 9898</dd>
-									<dd>E-mail: <a href="#" class="col1">mail@demolink.org</a></dd>
-									<dd>Skype: <a href="#" class="col1">@skypename</a></dd>
+									<dd><span>Telephone:</span>+91-9864422957</dd>
+									<dd><span>Telephone:</span>+91-7576010957</dd>
+									<dd>E-mail: <a href="#" class="col1">ashajyotiorg@gmail.com</a></dd>
 								</dl>
 							</address>
-							<p>Every single <span class="col1"><a href="http://www.templatemonster.com/website-templates.php" rel="nofollow">premium design</a></span> from TemplateMonster goes with support services. The freebies go without support. </p>
-							Need someone to help you with customization of the chosen free theme? <span class="col1"><a href="http://www.templatetuning.com/" rel="nofollow">Template Tuning</a></span>  team will help you. Note that it’s a paid service.
 						</div>
 					</div>
 					<div class="grid_8">
@@ -143,23 +105,7 @@
 				</div>
 			</div>
 <!--==============================footer=================================-->
-			<footer>	
-				<div class="hor bg3"></div>
-				<div class="container_12">
-					<div class="grid_12 ">  
-						<div class="socials">
-							<a href="#"></a>
-							<a href="#"></a>
-							<a href="#"></a>
-							<div class="clear"></div>
-						</div>
-						<div class="copy">
-							<strong>Life in Color</strong> &copy; <span id="copyright-year"></span> | <a href="#">Privacy Policy</a> <br>
-							Website designed by <a href="http://www.templatemonster.com/" rel="nofollow">TemplateMonster.com</a>
-						</div>  
-					</div>
-				</div>  
-			</footer>
+			<?php include 'footer.php';?>
 		</div>
 	</body>
 </html>

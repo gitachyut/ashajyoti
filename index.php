@@ -88,48 +88,7 @@
 	</head>
 	<body class="page1" id="top">
 <!--==============================header=================================-->
-		<header>
-			<div class="clear"></div>
-
-			<div class="container_12">
-				<div class="grid_12 nav_menu">
-					<div class="logo">
-						<a href="index.html">
-							<img src="assets/logo.png" alt="Your Happy Family">
-						</a>
-						<div class="brand">
-							<h1>Ashajyoti</h1></br>
-							<p>NGO for disabilities</p>
-						</div>
-
-					</div>
-
-					<div class="menu_block">
-						<nav class="horizontal-nav full-width horizontalNav-notprocessed">
-							<ul class="sf-menu">
-								<li class="current"><a href="index.html">Home</a></li>
-								<li><a href="index-1.html">About Us </a></li>
-								<li><a href="index-2.html">Our Mission</a>
-									<ul class="sf-menu">
-										<li><a href="#">history</a></li>
-										<li><a href="#">offers</a></li>
-										<li><a href="#">news</a>
-										<ul>
-											<li><a href="#">fresh </a></li>
-											<li><a href="#">archive</a></li>
-										</ul>
-									</ul>
-								</li>
-								<li><a href="index-4.html">Gallery</a></li>
-								<li><a href="index-4.html">Contacts</a></li>
-							</ul>
-						</nav>
-						<div class="clear"></div>
-					</div>
-					<div class="clear"></div>
-				</div>
-			</div>
-		</header>
+		<?php include 'header.php';?>
 		<div class="main">
 <!--==============================Content=================================-->
 			<div class="content"><div class="ic">More Website Templates @ TemplateMonster.com - December 16, 2013!</div>
@@ -301,21 +260,7 @@
 				</div>
 			</div>
 <!--==============================footer=================================-->
-			<footer>
-				<div class="hor bg3"></div>
-				<div class="container_12">
-					<div class="grid_12 ">
-						<div class="socials">
-							<a href="#"></a>
-							<a href="#"></a>
-							<div class="clear"></div>
-						</div>
-						<div class="copy">
-							<strong>Ashajyoti</strong>   &copy; <span id="copyright-year"></span> | <a href="#">Privacy Policy</a><br>
-						</div>
-					</div>
-				</div>
-			</footer>
+			<?php include 'footer.php';?>
 		</div>
 	</body>
 </html>
