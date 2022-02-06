@@ -46,7 +46,7 @@
 						<div class="gallery-container">
 							
 							<?php
-							for ($x = 2; $x <= 53; $x++) {
+							for ($x = 2; $x <= 56; $x++) {
 							?>
 								<a href="assets/imgs/<?php echo $x; ?>.jpg" data-lg-size="1600-2400">
 									<img alt="img1" src="assets/imgs/<?php echo $x; ?>.jpg" />
@@ -54,12 +54,16 @@
 							<?php
 							}
 							?>
-
-							<a href="assets/imgs/1.jpg" data-lg-size="1024-800">
-								<img alt="img2" src="assets/imgs/11.jpg" />
+						</div>
+						</div>
+					</div>
+					<div class="grid_12">
+						<a href="assets/imgs/1.jpg" data-lg-size="1024-800">
+								<img alt="img2" src="assets/imgs/1.jpg" />
 							</a>
-						</div>
-						</div>
+							<a href="assets/imgs/60.jpg" data-lg-size="1024-800">
+								<img alt="img2" src="assets/imgs/60.jpg" />
+							</a>
 					</div>
 				</div>
 			</div>

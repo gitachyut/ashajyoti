@@ -94,29 +94,7 @@
 			<div class="content">
 				<div class="container_12">
 					<div class="grid_12">
-						<div class="flexslider">
-							<ul class="slides">
-								<li>
-									<img src="images/page1_img1.jpg" alt="">
-									<div class="flex-caption">
-										<p>Hope</p>
-									</div>
-								</li>
-								<li>
-									<img src="images/page1_img2.jpg" alt="">
-									<div class="flex-caption c2">
-										<p>Save</p>
-									</div>
-								</li>
-								<li>
-									<img src="images/page1_img3.jpg" alt="">
-									<div class="flex-caption">
-										<p>Help</p>
-									</div>
-								</li>
-							</ul>
-						</div>
-						<span id="responsiveFlag"></span>
+						<?php include 'slider.php';?>
 					</div>
 					<div class="grid_12">
 						<h2>Skill Development</h2>

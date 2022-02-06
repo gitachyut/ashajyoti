@@ -94,29 +94,7 @@
 			<div class="content"><div class="ic">More Website Templates @ TemplateMonster.com - December 16, 2013!</div>
 				<div class="container_12">
 					<div class="grid_8">
-						<div class="flexslider">
-							<ul class="slides">
-								<li>
-									<img src="images/page1_img1.jpg" alt="">
-									<div class="flex-caption">
-										<p>Hope</p>
-									</div>
-								</li>
-								<li>
-									<img src="images/page1_img2.jpg" alt="">
-									<div class="flex-caption c2">
-										<p>Save</p>
-									</div>
-								</li>
-								<li>
-									<img src="images/page1_img3.jpg" alt="">
-									<div class="flex-caption">
-										<p>Help</p>
-									</div>
-								</li>
-							</ul>
-						</div>
-						<span id="responsiveFlag"></span>
+						<?php include 'slider.php';?>
 					</div>
 					<div class="grid_4">
 						<a href="donate-us.php" class="donate">Donate</a>
@@ -135,23 +113,23 @@
 					<div class="grid_12">
 
 						<div class="gallery-container">
-							<a href="assets/imgs/30.jpg" data-lg-size="1600-2400">
-								<img alt="img1" src="assets/imgs/30.jpg" />
+							<a href="assets/imgs/8.jpg" data-lg-size="1600-2400">
+								<img alt="img1" src="assets/imgs/8.jpg" />
 							</a>
-							<a href="assets/imgs/31.jpg" data-lg-size="1024-800">
-								<img alt="img2" src="assets/imgs/31.jpg" />
+							<a href="assets/imgs/9.jpg" data-lg-size="1024-800">
+								<img alt="img2" src="assets/imgs/9.jpg" />
 							</a>
-							<a href="assets/imgs/3.jpg" data-lg-size="1024-800">
-								<img alt="img2" src="assets/imgs/3.jpg" />
+							<a href="assets/imgs/44.jpg" data-lg-size="1024-800">
+								<img alt="img2" src="assets/imgs/44.jpg" />
 							</a>
-							<a href="assets/imgs/6.jpg" data-lg-size="1024-800">
-								<img alt="img2" src="assets/imgs/16.jpg" />
-							</a>
-							<a href="assets/imgs/8.jpg" data-lg-size="1024-800">
-								<img alt="img2" src="assets/imgs/23.jpg" />
+							<a href="assets/imgs/48.jpg" data-lg-size="1024-800">
+								<img alt="img2" src="assets/imgs/48.jpg" />
 							</a>
 							<a href="assets/imgs/19.jpg" data-lg-size="1024-800">
 								<img alt="img2" src="assets/imgs/19.jpg" />
+							</a>
+							<a href="assets/imgs/10.jpg" data-lg-size="1024-800">
+								<img alt="img2" src="assets/imgs/10.jpg" />
 							</a>
 						</div>
 
