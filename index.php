@@ -195,7 +195,7 @@
 						<div class="alright alt"><a href="awareness-programmes.php" class="btn">Read More</a></div>
 					</div>
 					<div class="grid_4 events">
-						<time class="st1"> Early Marriage</time>
+						<time class="st1"> Child Protection Issue</time>
 						It is one of the most unfortunate actions that prevails in our society. Basically it happened in those societies where..
 						<div class="alright alt"><a href="awareness-programmes.php" class="btn">Read More</a></div>
 					</div>

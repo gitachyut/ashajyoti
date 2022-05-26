@@ -256,33 +256,33 @@
 						<h2>Registration Details</h2>
 						<br>
                         <p>
-                            1) Registered under Societies Registration Act XXI of 1860. <br>
-                             No. RS/DAR/247/K/46 of 2014-15 Date 26-09-2014
+                            1) Registered Under Societies Registration Act XXI of 1860. <br>
+                            No. RS/DAR/247/K/46 of 2014-15	Date 26-09-2014
                         </p>
                         <p>
-                            2) Registered under R.P.W.D Act. 2016 at Directorate of Social Welfare, Govt. of  Assam. <br>
-                            Registration No 06/2018 date: 29/10/2018
+                            2) Registered Under RPWD Act. 2016, Directorate of Social J&E. Govt. of Assam.<br>
+                            Registration No DSJE(G)17/2022/1 Date: 28/10/2018
                         </p>
                         <p>
-                            3) NGO Darpan (Niti Aayog) Registration No. AS/2017/0161822
+                            3) Niti Aayog Registration No. AS/2017/0161822
                         </p>
                         <p>
-                            4) Nehru Yuva Kendra, Registration No. NYK/D/1074 
+                            4) Nehru Yuva Kendra, Registration No. NYK/D/1074 Date 28/04/2015.
                         </p>
                         <p>
-                            5) Registered under Section 12AA of the Income Tax Act, 1961. <br>
-                            No.CIT (EXMPTION), Kolkata/12AA/2019-20/A/10725   date 20.02.2020.
+                            5) Registered Under Section 12AA of the Income Tax Act, 1961. <br>
+                            No.CIT (EXMPTION), Kolkata/12AA/2019-20/A/10725 Date 20.02.2020.
                         </p>
                         <p>
-                            6) Registered under Section 80G (5) (vi) of the Income Tax Act, 1961.<br>
-                            No. ITBA/EXM/S/80G/2020-21/1027741163(1)   Date 18/08/2020
+                            6) Registered Under Section 80G (5) (vi) of the Income Tax Act, 1961. <br>
+                            No. ITBA/EXM/S/80G/2020-21/1027741163 (i) Date 18/08/2020.
                         </p>
                         <p>
-                            7)  PAN: AADAA8253B.
+                            7) PAN: AADAA8253B.
                         </p>
                         <p>
-                            8) Registered under the Ministry of Corporate Affairs, For undertaking CSR activities.<br>
-                            No. CSR00014405.   Date 07/09/2021
+                            8) Registered Under Ministry of Corporate Affairs, For undertaking CSR.<br>
+                            Activities. No. CSR00014405. Date 07/09/2021.
                         </p>
 					</div>
 				</div>
